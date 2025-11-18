@@ -1,0 +1,7 @@
+Total Average Power Consumption of the HPC-Nexus Server: 184.79 W
+Total Time: 200 seconds
+Total Energy (from avg power): 36958.49 Joules
+
+Statistical Analysis:
+Standard Deviation: 2.35 W
+Variance: 5.54 W²

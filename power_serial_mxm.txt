@@ -1,0 +1,25 @@
+MATRIX MULTIPLICATION ENERGY REPORT (serial)
+=========================================
+
+1. Baseline Measurements
+----------------------
+Baseline Power: 184.79 W
+
+2. Application Measurements
+-------------------------
+Total Power during execution: 187.58 W
+Dynamic Power (increase): 2.79 W
+Peak Power: 203.30 W
+Standard Deviation: 2.78 W
+Variance: 7.74 W²
+Execution Time: 122.147 seconds
+
+3. Energy Analysis
+----------------
+Baseline Energy: 6.269888 Wh (22571.60 J)
+Total Energy: 6.364714 Wh (22912.97 J)
+Dynamic Energy: 0.094827 Wh (341.38 J)
+
+4. Application Details
+--------------------
+Application Type: serial
